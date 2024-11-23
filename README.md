@@ -4,7 +4,6 @@
 </p>
 
 This repository contains the project developed during the Aaron Swartz Day Hackathon 2024. The project aims to create an alert and community-based natural disasters dataset, minimizing the barrier between scientific knowledge and the general public. In this repository, you will find the code for the alert and landing page designed to enhance the user experience.
-The website can be accesse on: https://www.cervo.io/
 
 ## Requirements
 
